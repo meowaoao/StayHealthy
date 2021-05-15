@@ -1,0 +1,45 @@
+/* apply to all html pages*/
+.footer {
+    position: fixed; /*what makes it sticky*/
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: wheat;
+}
+
+table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: larger;
+}
+
+#totalCal {
+    font-size: xx-large;
+    font-weight: bold;
+    border: solid;
+    background-color: darksalmon;
+}
+
+.btn{
+    background-color: teal;
+    color: wheat;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#backbutton {
+    background-color: darksalmon;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+}

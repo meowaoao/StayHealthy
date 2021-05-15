@@ -1,0 +1,17 @@
+body {
+
+    background-color: wheat;
+}
+
+#maindiv{
+    text-align: center;
+
+}
+#subdiv{
+    text-align: left;
+    width: 450px;
+    font-size: 25px;
+    position: absolute;
+    left: 40px;
+    top: 100px;
+}
